@@ -19,6 +19,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4b0eac96-0966-4455-91bf-648f3a321ee0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld.exe" beforeDir="false" afterPath="$PROJECT_DIR$/helloWorld.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "C/C++ File.helloWorld.cpp.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -81,6 +83,7 @@
       <updated>1740324232590</updated>
       <workItem from="1740324236630" duration="136000" />
       <workItem from="1740332040055" duration="585000" />
+      <workItem from="1740378435918" duration="1036000" />
     </task>
     <servers />
   </component>
